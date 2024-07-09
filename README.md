@@ -26,12 +26,3 @@ I'm a process automation expert, specializing in building scripts and applicatio
   ![Discord API](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  
-  
-<h3 align="left">Connect with me:</h3>
-<p style="margin-left: 2rem;">
-  <span height="30" width="40"></span>
-<a href="https://www.linkedin.com/in/alexcconstantin/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="iaashirkhan" height="30" width="100" /></a>
-</p>
-
-<br/>
