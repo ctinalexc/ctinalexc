@@ -5,6 +5,7 @@ I'm a process automation expert, specializing in building scripts and applicatio
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 📜 &nbsp;Language:&nbsp;
+  - C# (ASP.NET CORE) 
   - VB/VB.NET/VBA
   - Python
   - PHP, HTML, JS, CSS
