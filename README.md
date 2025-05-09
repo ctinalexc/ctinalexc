@@ -12,6 +12,6 @@ I'm a process automation expert, specializing in building scripts and applicatio
 - 🛢 &nbsp;Database:&nbsp;
   - MySQL, SQL, SQLite
 - 🔧 &nbsp;Others:&nbsp;
-  - Microsoft Access, Power Apps/Automate, Sharepoint, SAP GUI Scripting
+  - Microsoft Access, Microsoft Azure, Power Apps/Automate, Sharepoint, SAP GUI Scripting
 - 💡 &nbsp;Played with:&nbsp;
-  - Blue Prism, Power Query, Power BI, Java, Tensorflow, Microsoft Azure, Discord API, MongoDB, React Native
+  - Blue Prism, Power Query, Power BI, Java, Tensorflow, Azure Devops, Discord API, MongoDB, React Native
